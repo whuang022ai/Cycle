@@ -1,0 +1,1 @@
+fastqc -t 16 -o $output_each_dir $input_sub_dir/fastq
