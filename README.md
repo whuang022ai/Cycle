@@ -43,7 +43,7 @@ source ~/.bashrc
 ```
 
 
-# Usage
+# Getting Started & Run
 
 ./cycle.sh
 
