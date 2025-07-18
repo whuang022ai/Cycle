@@ -174,3 +174,7 @@ result will be
     ├── fastq_fastqc.html
     └── fastq_fastqc.zip
 ```
+
+## Builder
+
+Ming Han Yang (whuang022@gmail.com)
