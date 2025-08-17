@@ -1,5 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
+# CYCLE.SH
 ---
      █▀▀  █▄█  █▀▀  █░░  █▀▀  ░  █▀  █░█
      █▄▄  ░█░  █▄▄  █▄▄  ██▄  ▄  ▄█  █▀█       
@@ -7,11 +6,13 @@
                   v 0.0.1
 
 ---
-# About
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## About
 
 Cycle.sh is a small bash script to auto-run the custom commands with looping in folders in linux-like system.
 
-# Install
+## Install
 
 ### 1.download this project:
 
@@ -43,7 +44,7 @@ source ~/.bashrc
 ```
 
 
-# Getting Started & Run
+## Getting Started & Run
 
 ./cycle.sh
 
@@ -63,7 +64,7 @@ source ~/.bashrc
 
 use
 
-# Define custom commands
+## Define custom commands
 
 please use those two var : 
 
@@ -135,7 +136,7 @@ The output path structure:
 
 3 directories, 3 files
 ```
-# Application example for looping fastqc
+## Application example for looping fastqc
 
 ### 1. load data from fastq-dump
 
